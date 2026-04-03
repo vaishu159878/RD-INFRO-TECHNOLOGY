@@ -1,0 +1,5 @@
+chmod 400 my-key.pem
+ssh -i "my-key.pem" ubuntu@13.63.157.110
+sudo apt update
+sudo apt install apache2 -y
+sudo systemctl start apache2
