@@ -1,6 +1,6 @@
 # ☁️ Cloud Computing Internship - RD INFRO TECHNOLOGY
 
-This repository contains practical tasks completed as part of my Cloud Computing Internship.
+This repository contains hands-on tasks completed during my Cloud Computing Internship, focusing on real-world cloud deployment, security, and infrastructure management using AWS.
 
 ---
 
@@ -8,10 +8,11 @@ This repository contains practical tasks completed as part of my Cloud Computing
 
 ### 🔹 Task 1: EC2 - Virtual Machine Setup
 
-* Launched EC2 instance
-* Configured security groups
-* Connected using SSH
-* Installed Apache Web Server
+* Launched EC2 instance using Ubuntu
+* Configured security groups (SSH & HTTP)
+* Connected to instance using SSH
+* Installed and configured Apache Web Server
+* Successfully hosted a web page using EC2
 
 ---
 
@@ -19,23 +20,34 @@ This repository contains practical tasks completed as part of my Cloud Computing
 
 * Created S3 bucket
 * Enabled static website hosting
-* Uploaded HTML file
-* Hosted live website
+* Uploaded HTML file and configured public access
+* Deployed a live static website using S3
 
 ---
 
 ### ⚖️ Task 3: Auto Scaling & Load Balancer
 
-* Created Launch Template
-* Configured Target Group
-* Set up Application Load Balancer
-* Implemented Auto Scaling Group
+* Created Launch Template with user data script
+* Configured Target Group for health checks
+* Set up Application Load Balancer for traffic distribution
+* Implemented Auto Scaling Group for dynamic scaling
+* Built a scalable and highly available environment
+
+---
+
+### 🔐 Task 8: IAM Roles and Policies
+
+* Created IAM users and assigned permissions
+* Used AWS managed policies for access control
+* Designed custom JSON policies for fine-grained access
+* Created IAM roles for secure service-to-service communication
+* Applied least privilege principle for better security
 
 ---
 
 ## 🧰 Technologies Used
 
-* AWS (EC2, S3, Auto Scaling, Load Balancer)
+* AWS (EC2, S3, Auto Scaling, Load Balancer, IAM)
 * Linux
 * Git & GitHub
 
@@ -43,12 +55,14 @@ This repository contains practical tasks completed as part of my Cloud Computing
 
 ## 🚀 Key Learnings
 
-* Cloud infrastructure basics
-* Deployment and hosting
-* High availability and scalability
+* Hands-on experience with AWS cloud services
+* Deployment and hosting of web applications
+* High availability and scalability concepts
+* Identity and Access Management (IAM) for cloud security
+* Basics of cloud infrastructure and architecture
 
 ---
 
 ## 👩‍💻 Author
 
-Vaishnavi Nalawade
+**Vaishnavi Nalawade**
