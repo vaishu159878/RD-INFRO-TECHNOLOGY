@@ -1,6 +1,6 @@
 # ☁️ Cloud Computing Internship - RD INFRO TECHNOLOGY
 
-This repository contains hands-on tasks completed during my Cloud Computing Internship, focusing on real-world cloud deployment, security, and infrastructure management using AWS.
+This repository contains hands-on tasks completed during my Cloud Computing Internship, focusing on real-world cloud deployment, scalability, serverless computing, and security using AWS.
 
 ---
 
@@ -39,15 +39,24 @@ This repository contains hands-on tasks completed during my Cloud Computing Inte
 
 * Created IAM users and assigned permissions
 * Used AWS managed policies for access control
-* Designed custom JSON policies for fine-grained access
-* Created IAM roles for secure service-to-service communication
-* Applied least privilege principle for better security
+* Designed custom JSON policies
+* Created IAM roles for secure service communication
+* Applied least privilege principle
+
+---
+
+### ⚡ Task 5: Serverless Function (AWS Lambda)
+
+* Created Lambda function using Python
+* Deployed serverless code without managing servers
+* Configured API Gateway trigger
+* Executed function via HTTP endpoint
 
 ---
 
 ## 🧰 Technologies Used
 
-* AWS (EC2, S3, Auto Scaling, Load Balancer, IAM)
+* AWS (EC2, S3, Auto Scaling, Load Balancer, Lambda, IAM)
 * Linux
 * Git & GitHub
 
@@ -55,11 +64,11 @@ This repository contains hands-on tasks completed during my Cloud Computing Inte
 
 ## 🚀 Key Learnings
 
-* Hands-on experience with AWS cloud services
-* Deployment and hosting of web applications
-* High availability and scalability concepts
-* Identity and Access Management (IAM) for cloud security
-* Basics of cloud infrastructure and architecture
+* Cloud infrastructure and deployment
+* High availability and scalability
+* Serverless architecture (AWS Lambda)
+* Identity and Access Management (IAM)
+* Real-world cloud architecture concepts
 
 ---
 
