@@ -35,7 +35,7 @@ This repository contains hands-on tasks completed during my Cloud Computing Inte
 
 ---
 
-### 🔐 Task 8: IAM Roles and Policies
+### 🔐 Task 4: IAM Roles and Policies
 
 * Created IAM users and assigned permissions
 * Used AWS managed policies for access control
