@@ -43,9 +43,9 @@ This repository contains hands-on tasks completed during my Cloud Computing Inte
 * Created IAM roles for secure service communication
 * Applied the principle of least privilege
 
----
+  ----
 
-### ⚡ Task 5: Serverless Function (AWS Lambda)
+  ### ⚡ Task 5: Serverless Function (AWS Lambda)
 
 * Created Lambda function using Python
 * Deployed serverless code without managing servers
@@ -62,9 +62,18 @@ This repository contains hands-on tasks completed during my Cloud Computing Inte
 
 ---
 
+### 🐳 Task 7: Dockerize an Application
+
+* Created Dockerfile using Nginx base image
+* Built Docker image and ran container
+* Deployed application using Docker
+
+---
+
 ## 🧰 Technologies Used
 
 * AWS (EC2, S3, Auto Scaling, Load Balancer, Lambda, IAM, CloudWatch)
+* Docker
 * Linux
 * Git & GitHub
 
@@ -74,6 +83,7 @@ This repository contains hands-on tasks completed during my Cloud Computing Inte
 
 * Cloud infrastructure and deployment
 * High availability and scalability
+* Containerization using Docker
 * Serverless architecture (AWS Lambda)
 * Identity and Access Management (IAM)
 * Monitoring and observability using CloudWatch
